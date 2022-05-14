@@ -1,0 +1,39 @@
+{
+  "users": [
+    {
+      "name": "Test4554",
+      "email": "testt1@gmail.com",
+      "phone": "87878787",
+      "address": "Jkjk",
+      "id": 3
+    },
+    {
+      "name": "James bond",
+      "email": "James@gmail.com",
+      "phone": "877676777",
+      "address": "India",
+      "id": 4
+    },
+    {
+      "name": "updated",
+      "email": "ihjwih@kekh.com",
+      "phone": "9987987",
+      "address": "jhwhw",
+      "id": 9
+    },
+    {
+      "name": "James",
+      "email": "u8ywufy8@ufehu",
+      "phone": "8324787687",
+      "address": "gwufg",
+      "id": 10
+    },
+    {
+      "name": "john",
+      "email": "john@gmail.com",
+      "phone": "6775757",
+      "address": "India",
+      "id": 11
+    }
+  ]
+}
